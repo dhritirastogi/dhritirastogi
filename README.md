@@ -19,7 +19,7 @@ I’m currently learning **C** and am always open to collaborating on exciting n
 - [Simple User Authentication System](https://github.com/dhritirastogi/User-Authentication-System) - User registration, login, and logout functionalities, with password management using SHA-256 hashing.
 
 ## Contact
-- [dhritirasotgi@gmail.com](dhritirasotgi@gmail.com)
+- [dhritirastogi@gmail.com](dhritirastogi@gmail.com)
 
 Feel free to explore my repositories and reach out if you have any questions or want to collaborate!
 
