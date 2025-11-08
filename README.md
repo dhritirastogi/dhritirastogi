@@ -15,8 +15,8 @@ I’m currently learning **C** and am always open to collaborating on exciting n
 ## Projects
 
 - [Instagram Followers Analyzer](https://github.com/dhritirastogi/Instagram-Followers-Analyzer) - Analyzes Instagram followers data.
-- [To-Do List Application](https://github.com/kevgon8/To-Do-List-App) - Add, view, and manage tasks
-- [Simple User Authentication System](https://github.com/kevgon8/User-Authentication-System) - User registration, login, and logout functionalities, with password management using SHA-256 hashing.
+- [To-Do List Application](https://github.com/dhritirastogi/To-Do-List-App) - Add, view, and manage tasks
+- [Simple User Authentication System](https://github.com/dhritirastogi/User-Authentication-System) - User registration, login, and logout functionalities, with password management using SHA-256 hashing.
 
 ## Contact
 - [dhritirasotgi@gmail.com](dhritirasotgi@gmail.com)
